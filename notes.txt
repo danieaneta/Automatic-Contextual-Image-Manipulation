@@ -1,0 +1,8 @@
+-Have input folder 
+-using contextual information/input from user
+the LLM will pick between 5 specific image editing (image manipulation) techniques
+-(cold, warm, sunny, gloomy, neutral)
+
+additional functionality
+-lighten specific objects in a photo based on user prompt
+-
